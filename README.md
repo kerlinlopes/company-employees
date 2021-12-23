@@ -23,12 +23,12 @@ Employee
 |-----------|------|-------|-------------|
 | INDEX | / | GET | Render home page 
 | ABOUT | /about | GET | Renders the about page where ceo has employee headshots on a carousel and company values
-| TOPINFO | /topinfo | GET | Renders notes the ceo is keeping about employees
+| TOP INFO | /topinfo | GET | Renders notes the ceo is keeping about employees
 
 ## User Stories
  - User is able to add a new , edit, update or delete an employee
- - User can go to the about page and see employees who are working at company and the core values of the secret company
- - User is be able to go to topinfo page to see what is said about the employees
+ - User can go to the about page and see employees who are working at the company and the core values of the secret company
+ - User is be able to go to the top-info page to see what is said about the employees
 
 ## Challenges
 - thinking of what app to build
