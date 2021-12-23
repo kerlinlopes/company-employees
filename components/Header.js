@@ -8,7 +8,7 @@ export function Header() {
 	return (
 		<header className="header">
 			<h1 className="header__h1">
-				Manage <span>Employees</span>
+			<span>Employees</span>
 			</h1>
 			<button
 				className="btn btn__primary btn__icon"
@@ -16,7 +16,7 @@ export function Header() {
 					dispatch(setModalOpen(true));
 				}}
 			>
-				<PersonAddSVG /> <span>Add new</span>
+				<PersonAddSVG /> <span>NEW EMPLOYEE</span>
 			</button>
 		</header>
 	);

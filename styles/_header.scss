@@ -1,13 +1,14 @@
 %heading {
-	font-weight: 500;
+	font-weight: 300;
 	color: $accent-8;
-
+	font-family: 'Hind Madurai', sans-serif;
 	@include media(425px) {
 		line-height: normal;
 	}
 
 	& > span {
-		font-weight: 700;
+		font-weight: 600;
+		color: rgb(160, 190, 199);
 	}
 }
 

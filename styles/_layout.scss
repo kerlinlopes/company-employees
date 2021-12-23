@@ -1,6 +1,11 @@
+// google fonts
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap");
+
 .layout {
 	max-width: 108rem;
 	height: 100%;
+	font-family: "Hind Madurai", sans-serif;
+	color: rgb(119, 140, 146);
 
 	margin: 4rem auto;
 
@@ -14,4 +19,19 @@
 		margin: 0;
 		max-width: 100%;
 	}
+}
+.go-back {
+	font-size: 2rem;
+	padding: 1em;
+	font-family: "Hind Madurai", sans-serif;
+}
+
+a:-webkit-any-link {
+	color: #c2bdbd;
+	text-decoration: none;
+}
+
+.top-part {
+	color: rgb(0, 0, 0);
+	
 }

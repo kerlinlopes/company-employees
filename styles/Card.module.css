@@ -1,0 +1,44 @@
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+.card {
+	display: inline-flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-items: stretch;
+	align-content: stretch;
+	margin: 2rem;
+	/* outline: 2px dotted red; */
+	height: 20rem;
+	width: 20rem;
+	border: 3px solid #eaeaea;
+	border-radius: 25px;
+}
+.body {
+	/* outline: 2px dotted green; */
+	margin-top: 1rem;
+}
+.name {
+	color: #111111;
+	font-family: 'Rajdhani', sans-serif;
+	text-decoration: underline;
+	
+}
+.subtitle {
+	color: #888888;
+	font-family: 'Rajdhani', sans-serif;
+}
+.progress{
+	color: #888888;
+	font-family: 'Rajdhani', sans-serif;
+
+}
+.birthday{
+	color: #444444;
+	font-family: 'Rajdhani', sans-serif;
+}
+.horoscope {
+	color: purple;
+	font-family: 'Rajdhani', sans-serif;
+}
