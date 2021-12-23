@@ -37,7 +37,6 @@ Employee
 - 3 todo lists
 - 2 tasks lists
 - Tutorials in spanish by FAZT CODE
-- Couldn't deploy because my env file was in my gitignore
 
 ## List of technologies
 - JS, SASS, CSS, HTML, REACT, NEXTJS, VERCEL, MONGODB
