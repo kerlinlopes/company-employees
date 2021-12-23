@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "Next Js App with Mongodb + CRUD",
 	"main": "index.js",
+	"private": true,
 	"license": "",
 	"scripts": {
 		"dev": "next dev",
