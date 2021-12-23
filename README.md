@@ -2,7 +2,7 @@
 #### BY KERLIN
 
 ## Project Summary
-Creating a full CRUD app with NextJS and MongoDb. Its a secret website for a secret company and the ceo is keeping tracking of its employees....
+Creating a full CRUD app with NextJS and MongoDb. Its a secret website for a secret company and the ceo is keeping track of its employees....
 
 ## Frontend Framework 
 NextJs with MongoDB
