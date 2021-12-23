@@ -1,8 +1,8 @@
 {
 	"name": "secret-website",
 	"version": "1.0.0",
+	"description": "Next Js App with Mongodb + CRUD",
 	"main": "index.js",
-	"repository": "https://github.com/kerlinlopes/company-employees",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
